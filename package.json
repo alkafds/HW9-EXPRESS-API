@@ -11,7 +11,12 @@
     "sequelize": "^6.31.1",
     "sequelize-cli": "^6.6.0",
     "swagger-jsdoc": "^6.2.8",
+<<<<<<< HEAD
+    "swagger-ui-express": "^4.6.3",
+    "yamljs": "^0.3.0"
+=======
     "swagger-ui-express": "^4.6.3"
+>>>>>>> d2847f8741eb2e895291ea898b3a9a27f90cc2ab
   },
   "scripts": {
     "play": "nodemon index.js && nodemon swagger.js"

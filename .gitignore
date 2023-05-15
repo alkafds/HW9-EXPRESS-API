@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 package-lock.json
 yarn.lock
@@ -6,3 +7,13 @@ yarn.lock
 .yarn
 .env
 
+=======
+node_modules/
+package-lock.json
+yarn.lock
+.DS_Store
+.env
+.yarn
+.env
+
+>>>>>>> d2847f8741eb2e895291ea898b3a9a27f90cc2ab
